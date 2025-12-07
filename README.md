@@ -12,7 +12,7 @@ This project focuses on increasing user time-in-app by solving a key friction po
 ## 🎨 The Solution (Wireframe)
 *A low-fidelity mockup of the proposed "Live Room" interface.*
 
-![Wireframe Design](WIREFRAME VISUAL.png)
+![Wireframe Design](WIREFRAME.png)
 
 > **[📄 CLICK HERE TO READ THE FULL PRODUCT SPEC (PDF)](Product_Spec_Spotify_Live_Rooms.pdf)**
 
